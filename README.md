@@ -136,20 +136,5 @@ npm run dev
 
 ---
 
-## ✅ Suggested First Commit Message
 
-```git
-Initial commit – Mood Weather App
-
-- Set up React + TypeScript project structure
-- Added Tailwind CSS and shadcn/ui components
-- Implemented Mood Control System with particle backgrounds
-- Integrated Open-Meteo API for weather data
-- Added smart mood adaptation (auto and manual modes)
-- Created weather display, location search, and 24-hour/7-day forecast
-- Styled UI with glassmorphism, dynamic gradients, and smooth transitions
-- Organized project files for components, hooks, types, and libraries
-````
-
----
 
