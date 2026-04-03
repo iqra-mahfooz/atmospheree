@@ -96,7 +96,7 @@ A visually engaging **weather-based mood app** that dynamically adapts its UI ba
 
 1. Clone the repository:  
 ```bash
-git clone https://github.com/your-username/mood-weather-app.git
+git clone  https://iqra-mahfooz.github.io/atmospheree/
 cd mood-weather-app
 ````
 
@@ -130,7 +130,7 @@ npm run dev
 ### 👤 Author
 
 **Iqra Mahfooz**
-[GitHub Profile](https://github.com/your-username)
+[GitHub Profile](https://github.com/iqra-mahfooz)
 
 ````
 
