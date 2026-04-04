@@ -92,27 +92,10 @@ A visually engaging **weather-based mood app** that dynamically adapts its UI ba
 
 ---
 
-### 🚀 How to Run
+## 🚀 Live Demo
 
-1. Clone the repository:  
-```bash
-git clone  https://iqra-mahfooz.github.io/atmospheree/
-cd mood-weather-app
-````
-
-2. Install dependencies:
-
-```bash
-npm install
-```
-
-3. Start the development server:
-
-```bash
-npm run dev
-```
-
-4. Open `http://localhost:3000` in your browser.
+🔗 Live Website:
+https://atmospheree.netlify.app
 
 > Try it out — search for your city and play with the mood controls! The app automatically adapts the visual theme based on weather conditions, or you can manually select a mood to change the ambiance. 🎨
 
